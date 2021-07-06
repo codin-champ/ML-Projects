@@ -6,3 +6,4 @@
 #### Steps:
 ##### 1. Data Cleaning
 ##### 2. Data Preprocessing
+![Movie Review](MovieReview.jpg)
